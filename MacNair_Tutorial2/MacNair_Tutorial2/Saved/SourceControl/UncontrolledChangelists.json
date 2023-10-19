@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/ehajd289/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/MacNair_Tutorial2/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
 				"C:/Users/keliz/OneDrive/Documents/Unreal Projects/MacNair_Tutorial2/MacNair_Tutorial2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
