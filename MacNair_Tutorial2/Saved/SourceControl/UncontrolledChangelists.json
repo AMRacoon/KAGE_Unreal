@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/abmichaelson/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/desk/desk_texture/desk_top.uasset",
+				"C:/Users/abmichaelson/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/desk/desk_texture/desk_wood.uasset",
+				"C:/Users/abmichaelson/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/desk/desk_texture/desk_handles.uasset",
+				"C:/Users/abmichaelson/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/chair/chair_texture/chair_cushion.uasset",
+				"C:/Users/abmichaelson/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/chair/chair_texture/chair_wood.uasset",
+				"C:/Users/abmichaelson/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/rug/rug-texture/rug-material.uasset",
+				"C:/Users/abmichaelson/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/ThirdPerson/Maps/Apartment.umap",
 				"/Users/abigailmichaelson/Desktop/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
 				"/Users/abigailmichaelson/Desktop/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/couch/couch.uasset",
 				"/Users/abigailmichaelson/Desktop/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/couch/couch1.uasset",
