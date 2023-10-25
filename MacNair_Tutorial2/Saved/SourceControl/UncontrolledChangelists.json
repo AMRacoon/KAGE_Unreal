@@ -5,14 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/UI/StartMenu/Widgets/W_MainMenu.uasset",
 				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/LN/ZMLJDT61AUNYGTD9FS29XV.uasset",
-				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/7Q/DZQE1UHWIBRTQHLWW4IAAG.uasset",
 				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/MainMenu.umap",
 				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/UItest/StartMenu/Widgets/W_MainMenu.uasset",
 				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/UItest/StartMenu/Art/CleanCribStartMenu_1.uasset",
-				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/UItest/StartMenu/Art/Exit_Button_TEMP.uasset"
+				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/UItest/StartMenu/Art/Exit_Button_TEMP.uasset",
+				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/UItest/StartMenu/Art/Start_Screen.uasset",
+				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/character/char_idle_Anim.uasset",
+				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/AnimationBlueprints/ABP_Girl.uasset",
+				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/ThirdPerson/Maps/Apartment.umap",
+				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/UI/StartMenu/Widgets/W_MainMenu.uasset",
+				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/LN/ZMLJDT61AUNYGTD9FS29XV.uasset",
+				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/7Q/DZQE1UHWIBRTQHLWW4IAAG.uasset"
 			]
 		}
 	]
