@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/abigailmichaelson/Desktop/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/ThirdPerson/Maps/Apartment.umap",
+				"/Users/abigailmichaelson/Desktop/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/cords/laptopcord.uasset",
 				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/StarterContent/Props/Bp_Door.uasset",
 				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/L0/3JWUL8PM1OAENIY70HE4Q6.uasset",
 				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/61/LUV1ILBONWXWI49X9C9S4K.uasset",
@@ -19,7 +21,6 @@
 				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/keliz/OneDrive/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XI/XMQLU92UK1D42LZX5XVTDE.uasset",
 				"/Users/abigailmichaelson/Desktop/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/cords/cordtallLamp.uasset",
-				"/Users/abigailmichaelson/Desktop/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/ThirdPerson/Maps/Apartment.umap",
 				"/Users/ehajd289/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/living_room_with_windows/living_room_with_window_pasted__apartment.uasset",
 				"/Users/ehajd289/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/living_room_with_windows/living_room_with_window_pasted__apartment_Skeleton.uasset",
 				"/Users/ehajd289/Documents/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/living_room_with_windows/living_room_with_window_pasted__apartment_PhysicsAsset.uasset",
