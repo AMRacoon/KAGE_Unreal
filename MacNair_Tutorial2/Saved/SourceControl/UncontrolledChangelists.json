@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/martinezcsa/Desktop/KAGE_Unreal/MacNair_Tutorial2/Content/ThirdPerson/Maps/Apartment.umap",
+				"C:/Users/martinezcsa/Desktop/KAGE_Unreal/MacNair_Tutorial2/Content/Models/fixedwalls.uasset",
+				"C:/Users/martinezcsa/Desktop/KAGE_Unreal/MacNair_Tutorial2/Content/Models/wallwwindow.uasset",
+				"C:/Users/martinezcsa/Desktop/KAGE_Unreal/MacNair_Tutorial2/Content/Models/floor_2/StaticMesh.uasset",
 				"/Users/abigailmichaelson/Desktop/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/ThirdPerson/Maps/Apartment.umap",
 				"/Users/abigailmichaelson/Desktop/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/cords/laptopcord.uasset",
 				"/Users/abigailmichaelson/Desktop/GitHub/KAGE_Unreal/MacNair_Tutorial2/Content/Models/cords/pluggedin/bedcord.uasset",
